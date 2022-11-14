@@ -9,7 +9,7 @@
 
 <p>&nbsp;</p>
 <p align="center">
-The Official C# SDK for the Terra Ecosystem (LUNC/USTC/LUNA2)
+A wrapper library for managing FIAT payments for (LUNC/USTC/LUNA2)
 </p>
 <br/>
 
